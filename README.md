@@ -11,7 +11,6 @@ If Direct Deploy not working?
 Then simply Fork the Repo, Edit Readme file then Edit Deploy Link, enter your Repo name
 
 ## Contact & Support Chats
-
  - [Owner](https://t.me/The_Shikarii)
  - [Updates Channel](https://t.me/The_SHIKARI_Network)
  - [Support Group](https://t.me/ShikariSupportNetwork)
